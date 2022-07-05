@@ -1,0 +1,49 @@
+body{
+  background-color: #FAFAFA;
+  margin: auto;
+  max-width: 1240px;
+}
+/*
+
+img{
+  max-width: 500px;
+}*/
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+.menu h1{
+font-style: italic;
+}
+
+.menu li{
+display:inline-block;
+font-size: 20px;
+padding: 10px 20px;
+
+}
+
+.menu li a{
+  color: blue;
+  text-decoration: none;
+  
+}
+#top{
+  border-bottom: solid 1px black;
+}
+
+button{
+  border-radius: 5px;
+  background-color: blue;
+  color: antiquewhite;
+  font-size: 24px;
+}
+
+button a{
+  text-decoration: none;
+  color: white;
+}
