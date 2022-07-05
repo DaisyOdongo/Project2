@@ -136,5 +136,20 @@ property{
 
 #properties{
   margin-top: 200px;
-}S
+}
+
+#banner-2{
+  margin-top: 200px;
+}
+
+
+#search button{
+  margin-top: 20px;
+}
+#footer-links li{
+  list-style: none;
+  color:white;
+  margin-bottom: 5px;
+
+}
   
