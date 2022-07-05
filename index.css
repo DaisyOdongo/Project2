@@ -120,3 +120,20 @@ button a{
   width: 100px;
   margin: 0 auto;
 }
+
+property{
+  background-color: white;
+  border-radius: 0 10px;
+}
+
+.place{
+   margin: 10px 0;
+}
+
+.price{
+  text-align: left;
+}
+
+#properties{
+  margin-top: 200px;
+  
